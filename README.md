@@ -5,10 +5,10 @@
 A practice project to learn more about how to incorporate RAG into an OpenAI chatbot. This project uses the following:
 
 - NextJS
-- Vercel's AI SDK (https://www.npmjs.com/package/ai)
+- Vercel's [AI SDK](https://www.npmjs.com/package/ai)
 - OpenAI (LLM and embedding models)
-- RAG (from a few example URLs)
-- DataStax Astra (for storing the RAG data)
+- RAG (from a few example URLs, which I used [Puppeteer/LangChain](https://js.langchain.com/docs/integrations/document_loaders/web_loaders/web_puppeteer/) to scrape)
+- [DataStax](https://www.datastax.com/) Astra (for storing the RAG data)
 
 ## Getting Started
 
